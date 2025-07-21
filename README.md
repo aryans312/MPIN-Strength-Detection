@@ -1,4 +1,3 @@
-Here is a professional and well-structured `README.md` file for the **MPIN Strength Checker** project, with the author changed to **Aryan Sharma**:
 
 ---
 
@@ -167,5 +166,3 @@ result4 = check_mpin_strength(mpin4, dob_self="", dob_spouse="", **demographics4
 ```
 
 ---
-
-Let me know if you'd like this converted into a PDF, have the code bundled in a `.zip`, or want it deployed as a web app or API.
